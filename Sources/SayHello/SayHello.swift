@@ -11,7 +11,9 @@ public struct SayHello {
   }
   
   public func randomPhrase() -> String {
-    
+    /*
+     https://www.lipsum.com/feed/html
+     */
     let text1 = """
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ullamcorper, nisl in porttitor dictum, felis quam elementum mauris, condimentum vulputate felis leo nec erat. Nulla cursus tincidunt scelerisque. Sed elit nunc, ornare id massa ut, varius mattis ex. Fusce vitae laoreet nisi, in faucibus massa. Sed libero nibh, dignissim a ornare nec, aliquet ut urna. Aenean convallis vehicula tellus in tempus. Nulla ut aliquet nulla. Praesent vitae gravida diam. Pellentesque iaculis ligula vel nulla blandit lacinia. Sed aliquet lorem id enim finibus finibus. Suspendisse potenti. Curabitur rhoncus quam non massa lobortis, id dictum lectus lacinia. Nunc id consectetur augue. Donec tempus finibus justo, in sagittis velit egestas ac. Nam augue sapien, fermentum rhoncus condimentum ac, accumsan in mi.
 """
