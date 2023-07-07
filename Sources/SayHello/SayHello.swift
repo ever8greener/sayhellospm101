@@ -3,4 +3,8 @@ public struct SayHello {
 
     public init() {
     }
+  
+    public func sayGreet() {
+      print("hello from spm")
+    }
 }
